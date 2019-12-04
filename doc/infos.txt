@@ -1,0 +1,8 @@
+﻿<p>Ce fichier est là pour appotrer plus d'infos à l'utilisateur</p>
+<span class="label input button textarea">Saisir </span>
+<span class="button">l'identifiant / </span>
+<span class="label button">un titre à ce champ.</span>
+<span class="input textarea">l'identifiant de ce champ.</span>
+<span class="input"><br/>Aussi, renseigner le type de données pour ce champ</span>
+<span class="label input button textarea"><br />Ou cliquer sur [Annuler]
+pour annuler l'insertion de cette élément</span>
