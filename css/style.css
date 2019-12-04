@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+}
+hr{
+    background-color: red;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.5rem !important;
+}
+
+pre {
+    background-color: rgba(2,2,2,.2);
+    padding: 1rem 2rem;
+}
+
+#gauche {
+    float: left;
+    padding: 1.5rem;
+    width: 70%;
+    height: 1000px;
+    background-color: #EFECCA;
+}
+#droite {
+    background-color: #CEFFF8;
+    height: 1000px;
+    padding : 2rem;
+    padding-left: 71%;
+}
+#droite button{
+    width: 100%;
+    min-width: 12rem;
+    max-width: 90%;
+}
+
+input, textarea{
+    width: 70%;
+}
+button{
+    min-width: 10rem;
+}
+select, input, textarea, button{
+    min-width: 10rem;
+    margin: .5rem 2rem !important;
+}
+input+span{
+    margin: auto .5rem !important;
+
+}
+
+#zone_saisie button{
+    display: inline-block;
+    //width: 40%;
+    min-width: 3rem;
+    max-width: 30%;
+
+}
+
+button:hover:enabled {
+    box-shadow: 5px 5px 5px grey;
+}
